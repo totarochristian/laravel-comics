@@ -16,11 +16,14 @@
 </head>
 
 <body>
-
-    <main>
-        Welcome!
+    <main class="container">
+        <div class="d-flex justify-content-center align-items-center">
+            <h1>
+                <span>Welcome!</span>
+                <i class="fa-solid fa-face-smile"></i>
+            </h1>
+        </div>
     </main>
-
 </body>
 
 </html>
