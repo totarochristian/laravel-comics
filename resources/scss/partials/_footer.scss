@@ -1,0 +1,8 @@
+footer{
+    min-height: 70vh;
+}
+@media screen and (max-width: 767.98px){
+    footer{
+        flex-wrap: wrap;
+    }
+}
