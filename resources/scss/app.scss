@@ -1,4 +1,22 @@
 @use './partials/variables' as *;
+@use './partials/buyComics' as *;
+@use './partials/contacts' as *;
+@use './partials/footer' as *;
+@use './partials/header' as *;
+@use './partials/main' as *;
+@use './partials/sites' as *;
+@use './partials/logo' as *;
+@use './partials/navigationBar' as *;
+@use './partials/jumbotron' as *;
+@use './partials/links' as *;
+@use './partials/feature' as *;
+@use './partials/socials' as *;
+@use './partials/button' as *;
+@use './partials/currentSeries' as *;
+@use './partials/comic' as *;
+
+@import './colors';
+@import './fonts';
 
 $fa-font-path: "../fonts/webfonts" !default;
 

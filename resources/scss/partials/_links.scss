@@ -1,0 +1,8 @@
+#links a{
+    text-decoration: none;
+    color: grey;
+    &:hover{
+      color: white;
+      text-decoration: underline;
+    }
+  }

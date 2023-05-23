@@ -1,0 +1,1 @@
+<button type="button" class="btn text-white text-uppercase fw-bold rounded-0 {{ $btnFilled ? 'btn-primary' : 'btn-outline-primary'}} {{$btnSize==3 ? 'btn-lg': ($btnSize==1 ? 'btn-sm' : '')}} {{ $btnAlignCenter ? "align-self-center" : ""}}">{{ $btnTitle }}</button>

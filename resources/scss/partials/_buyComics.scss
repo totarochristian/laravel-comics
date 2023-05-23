@@ -1,0 +1,11 @@
+#brands{
+    min-height: 20vh;
+}
+@media screen and (max-width: 900px){
+    #brands{
+        div{
+        flex-wrap: wrap;
+        padding: 1rem 0.5rem;
+        }
+    }
+}

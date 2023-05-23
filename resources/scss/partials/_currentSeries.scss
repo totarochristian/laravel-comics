@@ -1,0 +1,11 @@
+#currentSeries{
+    min-height: 60vh;
+    margin-top: -1.7rem;
+  }
+  @media screen and (max-width: 900px){
+    #currentSeries{
+      div:last-child{
+        width: 100%!important;
+      }
+    }
+  }
